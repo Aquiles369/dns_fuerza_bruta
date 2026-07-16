@@ -34,13 +34,20 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás  informes reales sobre DNS Brute Force y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
+**✦ En esta sección encontrarás 7 informes reales sobre DNS Brute Force y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
 <br><br>
 
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://freedium-mirror.cfd/https://medium.com/@melodicbook/web-services-soap-based-attack-vectors-a3a2672425ed
+https://medium.com/@HackerMD/httpx-dnsx-live-hosts-filter-karo-aur-dns-secrets-nikalo-hinglish-mein-64e80ba0ff14
+https://freedium-mirror.cfd/https://medium.com/@0xSilent/mastering-dns-for-pentesters-advanced-enumeration-osint-exploitation-ac7e54d26e87
+https://medium.com/@gayuuinfocerts/dnsx-run-multiple-dns-queries-fb1628e6b496
+https://freedium-mirror.cfd/https://meetcyber.net/learn-how-to-use-dnsrecon-for-exhaustive-dns-enumeration-and-bug-bounty-0924e19400f6
+https://medium.com/bug-bounty/distributed-bruteforcing-of-dns-records-7ca481a2f501
+https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef
+https://medium.com/@hello.cybeague/unlocking-the-power-of-dnsrecon-advanced-recon-techniques-for-red-teamers-b430d16c0889
+
 ```
 <br>
 
